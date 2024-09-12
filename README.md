@@ -1,2 +1,3 @@
 # Push-Swap
-This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, you will have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
+This project explores the areas of data sorting, algorithms and differences between each. 
+This project also utilizes the linked lists as I used a doubled linked list in this current project
